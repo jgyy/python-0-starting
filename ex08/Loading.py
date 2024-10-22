@@ -23,5 +23,6 @@ def ft_tqdm(lst: range) -> None:
 
     print()
 
+
 if __name__ == "__main__":
     pass
